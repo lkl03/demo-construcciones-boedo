@@ -1,2 +1,7 @@
-# demo-construcciones-boedo
-Demo web para Construcciones Boedo — diseñada por eterlab.
+# Construcciones Boedo
+
+Sitio web demo diseñado por [eterlab.](https://eterlab.co)
+
+## Editar
+
+Modificá `index.html` para personalizar el sitio.
